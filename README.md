@@ -4,7 +4,7 @@ A cross-platform mobile application built with Flutter that beautifully showcase
 
 ## 📱 About the Project
 
-This application serves as an interactive gallery and showcase of iconic Nintendo characters, including Mario, Pikachu, Donkey Kong, Daisy, Toadette (Kinopiko), and Shy Guy. Built entirely with Flutter, it demonstrates responsive UI design and efficient asset management across mobile, web, and desktop platforms.
+This application serves as an interactive gallery and showcase of iconic Nintendo characters, including Mario, Pikachu, Donkey Kong, Daisy, Toadette (Kinopiko), and Shy Guy. Built entirely with Flutter, it demonstrates responsive UI design and efficient asset management across mobile, web, and desktop platforms. It is similar like the puzzle game.
 
 ### ✨ Features
 * **Character Gallery:** View high-quality images of fan-favorite Nintendo characters.
